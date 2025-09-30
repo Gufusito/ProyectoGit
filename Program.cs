@@ -10,7 +10,7 @@ namespace ProyectoGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Actividad 06");
+            Console.WriteLine("Actividad 06_git");
         }
     }
 }
