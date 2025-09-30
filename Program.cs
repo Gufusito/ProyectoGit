@@ -10,7 +10,7 @@ namespace ProyectoGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("trabajo moanso");
+            Console.WriteLine("trabajo moanso_semana7");
         }
     }
 }
