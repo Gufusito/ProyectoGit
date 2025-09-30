@@ -10,7 +10,7 @@ namespace ProyectoGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola equipo");
+            Console.WriteLine("Hola equipo_semana7");
         }
     }
 }
