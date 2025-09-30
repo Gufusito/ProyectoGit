@@ -10,7 +10,7 @@ namespace ProyectoGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("kiero makis");
+            Console.WriteLine("Bienvenidos a los juegos del hambre");
         }
     }
 }
